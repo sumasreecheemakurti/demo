@@ -1,0 +1,8 @@
+[core]
+	symlinks = false
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	logallrefupdates = false
+[remote "master"]
+	url = file:///C:\\Users\\1126379\\Desktop\\1126379
